@@ -7,7 +7,7 @@
   <div class="container">
     <!-- Inject flat data in template -->
 
-<br>
+    <br>
 
     <div class="row">
 
@@ -19,6 +19,14 @@
           <h1><%= flat.desc %></h1>
           <p><%= flat.city %>, <%= flat.country %></p>
 
+          <p class="rating">
+            <% flat.rating.to_i.times do %>
+            <i class="fa fa-star" style="color: #ffb400"></i>
+            <% end %>
+            <% (5 - flat.rating.to_i).times do %>
+            <i class="fa fa-star" style="color: #cacccd"></i>
+            <% end %>
+          </p>
         </div>
       </div>
 
