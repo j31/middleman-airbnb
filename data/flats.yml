@@ -1,3 +1,25 @@
+# ssaunier:
+#   title: "Sebastien's home"
+#   desc: "Charming room in Montmartre"
+#   city: "Paris"
+#   country: 'France'
+#   wifi: false
+#   rating: "4"
+# papillard:
+#   title: "Boris' home"
+#   desc: "Small flat in Tokyo"
+#   city: "Paris"
+#    country: 'Japan'
+#   wifi: true
+#   rating: "3"
+# monsieurpaillard:
+#   title: Romain's home
+#   desc: "Nice flat in Piccadilly"
+#   city: "London"
+#   country: 'UK'
+#   wifi: true
+#   rating: "5"
+
 - title: "Sebastien's home"
   desc: 'Charming room in Montmartre'
   user: 'ssaunier'
