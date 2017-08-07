@@ -1,0 +1,18 @@
+- title: "Sebastien's home"
+  desc: 'Charming room in Montmartre'
+  user: 'ssaunier'
+  city: 'Paris'
+  country: 'France'
+  rating: '4'
+- title: "Boris' home"
+  desc: 'Small flat in Tokyo'
+  user: 'papillard'
+  city: 'Tokyo'
+  country: 'Japan'
+  rating: '3'
+- title: "Roman's home"
+  desc: 'Nice flat in Piccadilly'
+  user: 'monsieurpaillard'
+  city: 'London'
+  country: 'UK'
+  rating: '5'
